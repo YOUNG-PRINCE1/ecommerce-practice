@@ -4,7 +4,7 @@ import IMG1 from './storeflower1.png'
 // import IMG3 from '../assets/storeflower3.png'
 import IMG4 from './hplaptop.jpg'
 import IMG5 from './iphone13.jpeg'
-import IMG6 from './iphone15Plus.jpg'
+import IMG6 from './iPhone15Plus.jpg'
 import IMG7 from './menshirt1.jpeg'
 import IMG8 from './menshirt2.jpeg'
 // import IMG9 from '../assets/samsung_galaxy-note-20.jpg'
@@ -36,7 +36,7 @@ let latest_colections = [
     },
    
     {
-        id:3,
+        id:4,
         img:IMG6,
         name:'Morning Blossom Bouquet',
         new_price:10000,
@@ -44,7 +44,7 @@ let latest_colections = [
         Category:'Flower'
     },
     {
-        id:3,
+        id:5,
         img:IMG7,
         name:'Morning Blossom Bouquet',
         new_price:10000,
@@ -52,7 +52,7 @@ let latest_colections = [
         Category:'Flower'
     },
     {
-        id:3,
+        id:6,
         img:IMG8,
         name:'Morning Blossom Bouquet',
         new_price:10000,
