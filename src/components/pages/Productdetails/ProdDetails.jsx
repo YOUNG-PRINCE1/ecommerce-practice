@@ -1,7 +1,7 @@
 import React,{useEffect} from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
 import all_products from '../../../assets/product'
-import './productdetails.css'
+import './ProductDetails.css'
 import {FaStar} from 'react-icons/fa'
 import { useCart } from '../../Content/CartContext'
 
